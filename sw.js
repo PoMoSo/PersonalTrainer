@@ -1,6 +1,6 @@
 // Keeps the app working offline. Bump the version when you upload new files.
-const CACHE = 'blx-trainer-v15';
-const CORE = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png', './icon-maskable-512.png', './apple-touch-icon.png'];
+const CACHE = 'blx-trainer-v16';
+const CORE = ['./', './index.html', './manifest.webmanifest', './blx-icon-192.png', './blx-icon-512.png', './blx-icon-maskable-512.png', './blx-apple-touch-icon.png'];
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(CORE)).then(() => self.skipWaiting()));
 });
