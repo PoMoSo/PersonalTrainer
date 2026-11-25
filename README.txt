@@ -1,4 +1,4 @@
-MY PERSONAL TRAINER - install guide
+BLX TRAINER - install guide
 ====================================
 
 The app has to be on a web address (https) before a phone or computer
@@ -22,7 +22,7 @@ quick look, but it can't be installed that way.
 
 4. INSTALL ON A COMPUTER
    Open the address in Chrome or Edge > click the install icon at the
-   right end of the address bar (or menu > "Install My Personal Trainer").
+   right end of the address bar (or menu > "Install BLX Trainer").
    On a Mac with Safari: File > "Add to Dock".
 
 GOOD TO KNOW
